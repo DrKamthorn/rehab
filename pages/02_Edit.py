@@ -1,2 +1,3 @@
+import streamlit as st
 import webbrowser
-webbrowser.open('http://sigj.atwebpages.com/rehab/fr/passw.php')
+webbrowser.open_new_tab('http://sigj.atwebpages.com/rehab/fr/passw.php')
